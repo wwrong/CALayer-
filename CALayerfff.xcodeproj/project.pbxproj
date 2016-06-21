@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		EAB27CCB1CA298D700D4E321 /* CALayer的基本概念.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CALayer的基本概念.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAB27CCB1CA298D700D4E321 /* CALayerfff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CALayerfff.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAB27CCF1CA298D700D4E321 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EAB27CD11CA298D700D4E321 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EAB27CD21CA298D700D4E321 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,10 +45,10 @@
 		EAB27CDA1CA298D700D4E321 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAB27CDD1CA298D700D4E321 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EAB27CDF1CA298D700D4E321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EAB27CE41CA298D700D4E321 /* CALayer的基本概念Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CALayer的基本概念Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAB27CE41CA298D700D4E321 /* CALayerfff.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CALayerfff.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAB27CE81CA298D700D4E321 /* CALayer_____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CALayer_____Tests.m"; sourceTree = "<group>"; };
 		EAB27CEA1CA298D700D4E321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EAB27CEF1CA298D700D4E321 /* CALayer的基本概念UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CALayer的基本概念UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAB27CEF1CA298D700D4E321 /* CALayerfff.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CALayerfff.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAB27CF31CA298D700D4E321 /* CALayer_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CALayer_____UITests.m"; sourceTree = "<group>"; };
 		EAB27CF51CA298D700D4E321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -91,9 +91,9 @@
 		EAB27CCC1CA298D700D4E321 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAB27CCB1CA298D700D4E321 /* CALayer的基本概念.app */,
-				EAB27CE41CA298D700D4E321 /* CALayer的基本概念Tests.xctest */,
-				EAB27CEF1CA298D700D4E321 /* CALayer的基本概念UITests.xctest */,
+				EAB27CCB1CA298D700D4E321 /* CALayerfff.app */,
+				EAB27CE41CA298D700D4E321 /* CALayerfff.xctest */,
+				EAB27CEF1CA298D700D4E321 /* CALayerfff.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -143,9 +143,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAB27CCA1CA298D700D4E321 /* CALayer的基本概念 */ = {
+		EAB27CCA1CA298D700D4E321 /* CALayerfff */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAB27CF81CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念" */;
+			buildConfigurationList = EAB27CF81CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfff" */;
 			buildPhases = (
 				EAB27CC71CA298D700D4E321 /* Sources */,
 				EAB27CC81CA298D700D4E321 /* Frameworks */,
@@ -155,14 +155,14 @@
 			);
 			dependencies = (
 			);
-			name = "CALayer的基本概念";
+			name = CALayerfff;
 			productName = "CALayer的基本概念";
-			productReference = EAB27CCB1CA298D700D4E321 /* CALayer的基本概念.app */;
+			productReference = EAB27CCB1CA298D700D4E321 /* CALayerfff.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EAB27CE31CA298D700D4E321 /* CALayer的基本概念Tests */ = {
+		EAB27CE31CA298D700D4E321 /* CALayerfffTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAB27CFB1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念Tests" */;
+			buildConfigurationList = EAB27CFB1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfffTests" */;
 			buildPhases = (
 				EAB27CE01CA298D700D4E321 /* Sources */,
 				EAB27CE11CA298D700D4E321 /* Frameworks */,
@@ -173,14 +173,14 @@
 			dependencies = (
 				EAB27CE61CA298D700D4E321 /* PBXTargetDependency */,
 			);
-			name = "CALayer的基本概念Tests";
+			name = CALayerfffTests;
 			productName = "CALayer的基本概念Tests";
-			productReference = EAB27CE41CA298D700D4E321 /* CALayer的基本概念Tests.xctest */;
+			productReference = EAB27CE41CA298D700D4E321 /* CALayerfff.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		EAB27CEE1CA298D700D4E321 /* CALayer的基本概念UITests */ = {
+		EAB27CEE1CA298D700D4E321 /* CALayerfffUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAB27CFE1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念UITests" */;
+			buildConfigurationList = EAB27CFE1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfffUITests" */;
 			buildPhases = (
 				EAB27CEB1CA298D700D4E321 /* Sources */,
 				EAB27CEC1CA298D700D4E321 /* Frameworks */,
@@ -191,9 +191,9 @@
 			dependencies = (
 				EAB27CF11CA298D700D4E321 /* PBXTargetDependency */,
 			);
-			name = "CALayer的基本概念UITests";
+			name = CALayerfffUITests;
 			productName = "CALayer的基本概念UITests";
-			productReference = EAB27CEF1CA298D700D4E321 /* CALayer的基本概念UITests.xctest */;
+			productReference = EAB27CEF1CA298D700D4E321 /* CALayerfff.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -221,7 +221,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAB27CC61CA298D700D4E321 /* Build configuration list for PBXProject "CALayer的基本概念" */;
+			buildConfigurationList = EAB27CC61CA298D700D4E321 /* Build configuration list for PBXProject "CALayerfff" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -234,9 +234,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAB27CCA1CA298D700D4E321 /* CALayer的基本概念 */,
-				EAB27CE31CA298D700D4E321 /* CALayer的基本概念Tests */,
-				EAB27CEE1CA298D700D4E321 /* CALayer的基本概念UITests */,
+				EAB27CCA1CA298D700D4E321 /* CALayerfff */,
+				EAB27CE31CA298D700D4E321 /* CALayerfffTests */,
+				EAB27CEE1CA298D700D4E321 /* CALayerfffUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -300,12 +300,12 @@
 /* Begin PBXTargetDependency section */
 		EAB27CE61CA298D700D4E321 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EAB27CCA1CA298D700D4E321 /* CALayer的基本概念 */;
+			target = EAB27CCA1CA298D700D4E321 /* CALayerfff */;
 			targetProxy = EAB27CE51CA298D700D4E321 /* PBXContainerItemProxy */;
 		};
 		EAB27CF11CA298D700D4E321 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EAB27CCA1CA298D700D4E321 /* CALayer的基本概念 */;
+			target = EAB27CCA1CA298D700D4E321 /* CALayerfff */;
 			targetProxy = EAB27CF01CA298D700D4E321 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -421,7 +421,7 @@
 				INFOPLIST_FILE = "CALayer的基本概念/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CALayerfff;
 			};
 			name = Debug;
 		};
@@ -432,7 +432,7 @@
 				INFOPLIST_FILE = "CALayer的基本概念/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CALayerfff;
 			};
 			name = Release;
 		};
@@ -443,8 +443,8 @@
 				INFOPLIST_FILE = "CALayer的基本概念Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CALayer的基本概念.app/CALayer的基本概念";
+				PRODUCT_NAME = CALayerfff;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CALayerfff.app/CALayerfff";
 			};
 			name = Debug;
 		};
@@ -455,8 +455,8 @@
 				INFOPLIST_FILE = "CALayer的基本概念Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----Tests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CALayer的基本概念.app/CALayer的基本概念";
+				PRODUCT_NAME = CALayerfff;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CALayerfff.app/CALayerfff";
 			};
 			name = Release;
 		};
@@ -466,7 +466,7 @@
 				INFOPLIST_FILE = "CALayer的基本概念UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CALayerfff;
 				TEST_TARGET_NAME = "CALayer的基本概念";
 			};
 			name = Debug;
@@ -477,7 +477,7 @@
 				INFOPLIST_FILE = "CALayer的基本概念UITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "gn.CALayer-----UITests";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CALayerfff;
 				TEST_TARGET_NAME = "CALayer的基本概念";
 			};
 			name = Release;
@@ -485,7 +485,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAB27CC61CA298D700D4E321 /* Build configuration list for PBXProject "CALayer的基本概念" */ = {
+		EAB27CC61CA298D700D4E321 /* Build configuration list for PBXProject "CALayerfff" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAB27CF61CA298D700D4E321 /* Debug */,
@@ -494,29 +494,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAB27CF81CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念" */ = {
+		EAB27CF81CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfff" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAB27CF91CA298D700D4E321 /* Debug */,
 				EAB27CFA1CA298D700D4E321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		EAB27CFB1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念Tests" */ = {
+		EAB27CFB1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfffTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAB27CFC1CA298D700D4E321 /* Debug */,
 				EAB27CFD1CA298D700D4E321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		EAB27CFE1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayer的基本概念UITests" */ = {
+		EAB27CFE1CA298D700D4E321 /* Build configuration list for PBXNativeTarget "CALayerfffUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAB27CFF1CA298D700D4E321 /* Debug */,
 				EAB27D001CA298D700D4E321 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

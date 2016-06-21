@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAB27CCA1CA298D700D4E321"
-               BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.app"
-               BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;"
-               ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+               BuildableName = "CALayerfff.app"
+               BlueprintName = "CALayerfff"
+               ReferencedContainer = "container:CALayerfff.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAB27CE31CA298D700D4E321"
-               BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;Tests.xctest"
-               BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;Tests"
-               ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+               BuildableName = "CALayerfff.xctest"
+               BlueprintName = "CALayerfffTests"
+               ReferencedContainer = "container:CALayerfff.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EAB27CEE1CA298D700D4E321"
-               BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;UITests.xctest"
-               BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;UITests"
-               ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+               BuildableName = "CALayerfff.xctest"
+               BlueprintName = "CALayerfffUITests"
+               ReferencedContainer = "container:CALayerfff.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAB27CCA1CA298D700D4E321"
-            BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.app"
-            BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;"
-            ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+            BuildableName = "CALayerfff.app"
+            BlueprintName = "CALayerfff"
+            ReferencedContainer = "container:CALayerfff.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAB27CCA1CA298D700D4E321"
-            BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.app"
-            BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;"
-            ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+            BuildableName = "CALayerfff.app"
+            BlueprintName = "CALayerfff"
+            ReferencedContainer = "container:CALayerfff.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EAB27CCA1CA298D700D4E321"
-            BuildableName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.app"
-            BlueprintName = "CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;"
-            ReferencedContainer = "container:CALayer&#x7684;&#x57fa;&#x672c;&#x6982;&#x5ff5;.xcodeproj">
+            BuildableName = "CALayerfff.app"
+            BlueprintName = "CALayerfff"
+            ReferencedContainer = "container:CALayerfff.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
